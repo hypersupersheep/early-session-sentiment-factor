@@ -1,0 +1,22 @@
+# secrets / credentials — never commit
+.rqlicense
+*.license
+*.key
+*.pem
+.env
+
+# large / raw data (bring your own feed)
+*.parquet
+cache/
+段_*.csv
+净值_*.csv
+nav_*.csv
+
+# python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# os / misc
+.DS_Store
+*.zip

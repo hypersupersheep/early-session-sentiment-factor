@@ -1,0 +1,6 @@
+numpy
+pandas
+# optional, for factor.generate_signal and extra stats:
+# rqdatac
+# scipy
+# statsmodels
