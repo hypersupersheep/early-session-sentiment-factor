@@ -6,11 +6,6 @@ most stocks fall together at the open, cut exposure for the day.
 
 一个 A 股择时因子。核心思想:开盘后前十几分钟**下跌个股的广度**,是当日系统性风险的干净读数;当全市场早盘同步下跌,当日降仓避险。
 
-> This repository is an independent reproduction and empirical study. The core
-> idea—opening breadth as a sentiment timer—is not my own; the implementation,
-> the execution-honest backtest, the mechanism analysis, and the reports are.
-> 本仓库是**独立复现与实证研究**。早盘广度择时这一思想并非我原创;代码、诚实口径回测、机理分析与报告为本人工作。
-
 ---
 
 ## 中文
